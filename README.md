@@ -2,12 +2,12 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+This Ember component was developed by Nate Sshroader and converted/published to an addon by Alex Nordhausen.
+
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd submit-button`
-* `npm install`
-* `bower install`
+* `npm install submit-button`
+* Place `{{#submit-button action="yourActionHere"}}Button Text{{/submit-button}}` into your page templates. 
 
 ## Running
 

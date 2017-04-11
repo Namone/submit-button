@@ -1,7 +1,7 @@
 {
   "name": "submit-button",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.1.1",
+  "description": "Easily add submission buttons to Ember using {{submit-button}}",
   "keywords": [
     "ember-addon",
     "submit-button",
@@ -9,12 +9,12 @@
     "submit"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Nate Schroader",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/Namone/submit-button",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
