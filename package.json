@@ -1,6 +1,6 @@
 {
   "name": "submit-button",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "description": "Easily add submission buttons to Ember using {{submit-button}}",
   "keywords": [
     "ember-addon",
@@ -14,7 +14,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "https://github.com/Namone/submit-button",
+  "repository": "https://github.com/CottonwoodRes/submit-button",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
