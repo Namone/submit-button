@@ -1,0 +1,1 @@
+export { default } from 'submit-button/components/submit-button';
